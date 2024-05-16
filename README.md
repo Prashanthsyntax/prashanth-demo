@@ -1,4 +1,4 @@
 # prashanth-demo
 This is my first Git repository
 <br>
-Author-Prashanth
+Author-Prashanth (vjit college)
